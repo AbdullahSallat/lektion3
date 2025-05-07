@@ -7,10 +7,13 @@ function Hälsa {
 # loop som hälsa på all
 function HälsaAlla {
     param (
-        $allanamn
+        $namnlista
     )
-    
+    foreach ($namn in $allnamn){
+        Hälsa -namn $namn
+    }
 }
 
 # array med alla namn
-$allanamn = @("Alice", "Pop")
+$allnamn = @("Alice","Pop")
+HälsaAlla -namnlista $allanamn
