@@ -1,0 +1,12 @@
+localhost är tillgänglig
+non-local-host är inte tillgänglig
+8.8.8.8 är tillgänglig
+aftonbladet.se är tillgänglig
+localhost är tillgänglig
+non-local-host är inte tillgänglig
+8.8.8.8 är tillgänglig
+aftonbladet.se är tillgänglig
+localhost är tillgänglig
+non-local-host är inte tillgänglig
+8.8.8.8 är tillgänglig
+aftonbladet.se är tillgänglig
